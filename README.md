@@ -1,0 +1,2 @@
+# tradepredicter
+trade predicter app
